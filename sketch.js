@@ -40,59 +40,5 @@ function draw() {
 		
 		rect(0, 0, w, h);
 	}
-	/*
-
-	fill(255);
-
-	rotate(rot-9);
-	ellipse(0, 0, size/2, size);
-
-	fill(0);
-	rotate(rot-10);
-	ellipse(0, 0, size/4, size/2);
-
-
-	fill(255);
-	rotate(rot-11);
-	ellipse(0, 0, size/8, size/4);
-
-
-	fill(0);
-	rotate(rot-11);
-	ellipse(0, 0, size/16, size/8);
-
-	fill(255);
-	rotate(rot-12);
-	ellipse(0, 0, size/32, size/16);
-
-
-	fill(0);
-	rotate(rot-13);
-	ellipse(0, 0, size/64, size/32);
-*/
-
-/*
-
-	fill(255);
-	translate(width/2, height/4-40);
-	ellipse(0, 0, size*3, size*4);
-	fill(0);
-	ellipse(-10, 0, size*3, size*4);
-
-
-
-fill(255);
-
-	ellipse(0, 0, size*2, size*3);
-		fill(0);
-	ellipse(0, 0, size, size*2);
-
-	fill(255);
-	triangle(-size, -size*2, -size, size*7, 0, 0);
-
-		ellipse(0, 0, size/2, size);
-	
-*/
-
 
 }
